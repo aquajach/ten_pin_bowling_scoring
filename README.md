@@ -1,5 +1,5 @@
 ## Usage:
-After your running ```bundle install```, try me by:
+~~After your running ```bundle install```~~, try me by:
 
 ```
 ruby run.rb
